@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SoluDapper.CDatos\SoluDapper.CDatos.csproj" />
+    <ProjectReference Include="..\SoluDapper.CEntidades\SoluDapper.CEntidades.csproj" />
+  </ItemGroup>
+
+</Project>
